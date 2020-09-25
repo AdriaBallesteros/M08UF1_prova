@@ -14,6 +14,10 @@ and open the template in the editor.
             echo '<p>"Hola Mundo"</p>';
             
             echo "Prueba 1";
+            
+            function funcion1(){
+                
+            }
         ?>
     </body>
 </html>
