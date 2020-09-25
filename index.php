@@ -16,7 +16,7 @@ and open the template in the editor.
             echo "Prueba 1";
             
             function funcion1(){
-                
+                echo "Ballesteros";
             }
         ?>
     </body>
